@@ -97,4 +97,3 @@ jupyter notebook novagen_health_classification.ipynb
 
 ---
 
-*Built as part of Shradha Khapra's Prime AI Batch — Supervised ML Assignment 5*
